@@ -7,7 +7,7 @@
     "test": "tests"
   },
   "scripts": {
-    "dev":"npm start",
+    "dev":"node src/app.js",
     "test": "jest",
     "build": "echo 'Running build script'"
   },
