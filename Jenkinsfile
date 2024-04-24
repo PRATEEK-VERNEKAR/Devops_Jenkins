@@ -9,7 +9,7 @@ node {
   }
 
   stage('Test') {
-    sh 'npm test'
+    sh 'npm run test'
   }
 
   stage('Build') {
