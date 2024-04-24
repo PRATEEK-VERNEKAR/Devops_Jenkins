@@ -7,6 +7,7 @@
     "test": "tests"
   },
   "scripts": {
+    "dev":"npm start",
     "test": "jest",
     "build": "echo 'Running build script'"
   },

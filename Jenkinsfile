@@ -17,7 +17,7 @@ node {
   }
 
   stage('Deploy') {
-    sh 'npm start'
+    sh 'npm run dev'
   }
 }
 
