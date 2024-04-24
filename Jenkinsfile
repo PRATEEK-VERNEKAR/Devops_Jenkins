@@ -1,6 +1,6 @@
 node {
   stage('Checkout') {
-    git 'https://github.com/your-username/project-name.git'
+    git 'https://github.com/PRATEEK-VERNEKAR/Devops_Jenkins.git'
   }
 
   stage('Install Dependencies') {
