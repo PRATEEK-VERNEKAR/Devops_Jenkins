@@ -7,7 +7,7 @@
     "test": "tests"
   },
   "scripts": {
-    "test": "mocha './tests/**/*.js'"
+    "test": "jest"
   },
   "author": "",
   "license": "ISC",
@@ -15,6 +15,7 @@
     "express": "^4.19.2"
   },
   "devDependencies": {
+    "jest": "^29.7.0",
     "mocha": "^10.4.0"
   }
 }
