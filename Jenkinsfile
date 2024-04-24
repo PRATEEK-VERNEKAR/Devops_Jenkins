@@ -16,9 +16,9 @@ node {
     sh 'npm run build'
   }
 
-  stage('Deploy') {
-    sh 'npm run dev'
-  }
+//   stage('Deploy') {
+//     sh 'npm run dev'
+//   }
 }
 
 
