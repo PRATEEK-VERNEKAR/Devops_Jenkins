@@ -1,6 +1,6 @@
 node {
     stage('Checkout') {
-        git branch: 'main', url: 'https://github.com/PRATEEK-VERNEKAR/Devops_Jenkins.git', credentialsId: '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A'
+        git branch: 'main', url: 'https://github.com/PRATEEK-VERNEKAR/Devops_Jenkins.git', credentialsId: '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'
     }
 
 
